@@ -12,3 +12,4 @@ b. Operations using einsum in tensorflow, numpy and pytorch <br>
 &nbsp; &nbsp; &nbsp; Pytorch: https://colab.research.google.com/drive/1Yl8mcawwbQmcilKiopC6F8zpU7KthQz3?usp=sharing <br>
 &nbsp; &nbsp; &nbsp; Numpy: https://colab.research.google.com/drive/1OyZBJzqiTnFlhTheaX56tInd-K8UWwS1?usp=sharing <br>
 c. Tensor operations using pytorch and tensorflow <br>
+&nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/1TlGBMbgXtIDHj3O8XnabEMvxgyu2WUyT?usp=sharing
