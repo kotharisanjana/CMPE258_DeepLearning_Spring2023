@@ -7,6 +7,7 @@ c. Finetuning GPT 3 and prompt engineering - A dataset is generated for email ma
 
 ### Assignment 2 - 
 a. Chatgpt using gradio and t5xl from huggingface <br>
+&nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/101JttCHQjPkWrVTskZT2IJUSmWY66WSG?usp=sharing
 b. Operations using einsum in tensorflow, numpy and pytorch <br>
 &nbsp; &nbsp; &nbsp; Tensorflow: https://colab.research.google.com/drive/1IYFZShWPeRVStiRur_psxpujUxL6nOBi?usp=sharing <br>
 &nbsp; &nbsp; &nbsp; Pytorch: https://colab.research.google.com/drive/1Yl8mcawwbQmcilKiopC6F8zpU7KthQz3?usp=sharing <br>
