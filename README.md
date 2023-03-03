@@ -14,3 +14,10 @@ b. Operations using einsum in tensorflow, numpy and pytorch <br>
 &nbsp; &nbsp; &nbsp; Numpy: https://colab.research.google.com/drive/1OyZBJzqiTnFlhTheaX56tInd-K8UWwS1?usp=sharing <br>
 c. Tensor operations using pytorch and tensorflow <br>
 &nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/1TlGBMbgXtIDHj3O8XnabEMvxgyu2WUyT?usp=sharing
+
+### Assignment 3 - 
+3 layer deep neural network with 3 variables (manual backprop included) <br>
+a. https://colab.research.google.com/drive/14v0I7iBm2tz_BrOX4n4aqo95GpXj6mgL?usp=sharing <br>
+b. https://colab.research.google.com/drive/1pQp88d31u7wfXZ0yVUeB6i9NX1RCFZT8?usp=sharing <br>
+c. https://colab.research.google.com/drive/13NHt00Me2HuWhs5zVtPjdNkCkd7y1w2B?usp=sharing <br>
+d. https://colab.research.google.com/drive/1UN4jQcuzwBvDKHRfVPDBfxA0T4k-Ow9Q?usp=sharing <br>
