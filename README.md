@@ -7,7 +7,7 @@ c. Finetuning GPT 3 and prompt engineering - A dataset is generated for email ma
 
 ### Assignment 2 - 
 a. Chatgpt using gradio and t5xl from huggingface <br>
-&nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/101JttCHQjPkWrVTskZT2IJUSmWY66WSG?usp=sharing
+&nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/101JttCHQjPkWrVTskZT2IJUSmWY66WSG?usp=sharing <br>
 b. Operations using einsum in tensorflow, numpy and pytorch <br>
 &nbsp; &nbsp; &nbsp; Tensorflow: https://colab.research.google.com/drive/1IYFZShWPeRVStiRur_psxpujUxL6nOBi?usp=sharing <br>
 &nbsp; &nbsp; &nbsp; Pytorch: https://colab.research.google.com/drive/1Yl8mcawwbQmcilKiopC6F8zpU7KthQz3?usp=sharing <br>
@@ -16,9 +16,10 @@ c. Tensor operations using pytorch and tensorflow <br>
 &nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/1TlGBMbgXtIDHj3O8XnabEMvxgyu2WUyT?usp=sharing
 
 ### Assignment 3 - 
-3 layer deep neural network with 3 variables (manual backprop included) <br>
+Basic Neural Network from scratch using NumPy, PyTorch, Tensorflow and JAX - 3 layer deep neural network with 3 variables <br>
 a. https://colab.research.google.com/drive/14v0I7iBm2tz_BrOX4n4aqo95GpXj6mgL?usp=sharing <br>
 b. https://colab.research.google.com/drive/1pQp88d31u7wfXZ0yVUeB6i9NX1RCFZT8?usp=sharing <br>
 c. https://colab.research.google.com/drive/13NHt00Me2HuWhs5zVtPjdNkCkd7y1w2B?usp=sharing <br>
 d. https://colab.research.google.com/drive/1UN4jQcuzwBvDKHRfVPDBfxA0T4k-Ow9Q?usp=sharing <br>
 e. https://colab.research.google.com/drive/1M6BlBk-2ofcL3dIsHeIJXj0t2r2CxV79?usp=sharing <br>
+f. https://colab.research.google.com/drive/1JO7MoBm_stVHzsvhVI_C28_MKuru9OL-?usp=sharing
