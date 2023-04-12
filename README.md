@@ -23,3 +23,12 @@ c. https://colab.research.google.com/drive/13NHt00Me2HuWhs5zVtPjdNkCkd7y1w2B?usp
 d. https://colab.research.google.com/drive/1UN4jQcuzwBvDKHRfVPDBfxA0T4k-Ow9Q?usp=sharing <br>
 e. https://colab.research.google.com/drive/1M6BlBk-2ofcL3dIsHeIJXj0t2r2CxV79?usp=sharing <br>
 f. https://colab.research.google.com/drive/1JO7MoBm_stVHzsvhVI_C28_MKuru9OL-?usp=sharing
+
+### Assignment 4 - 
+a. Regulazrization techniques - https://colab.research.google.com/drive/11p27mEArGXtqhi66hLlrkS_7WhdnHopA?usp=sharing <br>
+b. Initializations - https://colab.research.google.com/drive/1T3LzXVRLdb76CyAddy59oSDTr8WV9C7G?usp=sharing <br>
+c. Callbacks and Tensorboard - https://colab.research.google.com/drive/15QaXFwkiQ_W1l-zxM-5ntnJkNCucQDjK?usp=sharing <br>
+d. Keras Tuner - https://colab.research.google.com/drive/1AICaVCp7osEnZXxqxPKpWCDcSW-dY6Xs?usp=sharing <br>
+e. Keras CV Data Augmentation - https://colab.research.google.com/drive/1kLTQ9riDdo318BA04GDW60y-VP4EUUWO?usp=sharing <br>
+f. Data Augmentation & Classification - https://colab.research.google.com/drive/1lvk47BclV1czYNXi5_ATgNoRuQjOgifu?usp=sharing <br>
+g. FastAI Data Augmentation - https://colab.research.google.com/drive/13xLyuJGOw-ymoUm_3iuX-n4ngBb0anVY?usp=sharing
