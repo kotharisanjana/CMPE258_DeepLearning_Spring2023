@@ -32,3 +32,15 @@ d. Keras Tuner - https://colab.research.google.com/drive/1AICaVCp7osEnZXxqxPKpWC
 e. Keras CV Data Augmentation - https://colab.research.google.com/drive/1kLTQ9riDdo318BA04GDW60y-VP4EUUWO?usp=sharing <br>
 f. Data Augmentation & Classification - https://colab.research.google.com/drive/1lvk47BclV1czYNXi5_ATgNoRuQjOgifu?usp=sharing <br>
 g. FastAI Data Augmentation - https://colab.research.google.com/drive/13xLyuJGOw-ymoUm_3iuX-n4ngBb0anVY?usp=sharing
+
+### Assignment 5 - 
+a. BabyAGI with Langchain - <br>
+https://colab.research.google.com/drive/1bKFtbns8t69iNcd_kvvV7DCwtfcPkMBJ?usp=sharing <br>
+b. AgentGPT Demo <br>
+c. Jarvis HuggingGPT <br>
+d. Visual GPT <br>
+e. OpenAI chat with excel <br>
+f. Adobe Firefly Demo <br>
+g. App using Semantic Kernel <br>
+h. Medium article on best practices for prompt engineering - <br>
+https://medium.com/@sanjana.kothari/best-practices-for-prompt-engineering-d6832740830
