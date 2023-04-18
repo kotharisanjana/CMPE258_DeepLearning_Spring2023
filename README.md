@@ -34,13 +34,14 @@ f. Data Augmentation & Classification - https://colab.research.google.com/drive/
 g. FastAI Data Augmentation - https://colab.research.google.com/drive/13xLyuJGOw-ymoUm_3iuX-n4ngBb0anVY?usp=sharing
 
 ### Assignment 5 - 
-a. BabyAGI with Langchain - <br>
-https://colab.research.google.com/drive/1bKFtbns8t69iNcd_kvvV7DCwtfcPkMBJ?usp=sharing <br>
-b. AgentGPT Demo <br>
+a. BabyAGI with Langchain (colab + demo) <br>
+&nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/1bKFtbns8t69iNcd_kvvV7DCwtfcPkMBJ?usp=sharing <br>
+b. AgentGPT demo <br>
 c. Jarvis HuggingGPT <br>
 d. Visual GPT <br>
-e. OpenAI chat with excel <br>
-f. Adobe Firefly Demo <br>
+e. OpenAI chat with excel (colab + demo) <br>
+&nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/1BIK-ecEVkfugbbtRZ67VOTEC9unEEnGV?usp=sharing <br>
+f. Adobe Firefly demo <br>
 g. App using Semantic Kernel <br>
 h. Medium article on best practices for prompt engineering - <br>
-https://medium.com/@sanjana.kothari/best-practices-for-prompt-engineering-d6832740830
+&nbsp; &nbsp; &nbsp; https://medium.com/@sanjana.kothari/best-practices-for-prompt-engineering-d6832740830
