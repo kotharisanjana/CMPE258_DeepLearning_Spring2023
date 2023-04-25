@@ -37,11 +37,11 @@ g. FastAI Data Augmentation - https://colab.research.google.com/drive/13xLyuJGOw
 a. BabyAGI with Langchain (colab + demo) <br>
 &nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/1bKFtbns8t69iNcd_kvvV7DCwtfcPkMBJ?usp=sharing <br>
 b. AgentGPT demo <br>
-c. Jarvis HuggingGPT <br>
-d. Visual GPT <br>
+c. Jarvis HuggingGPT demo <br>
+d. Visual GPT demo <br>
 e. OpenAI chat with excel (colab + demo) <br>
 &nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/1BIK-ecEVkfugbbtRZ67VOTEC9unEEnGV?usp=sharing <br>
-f. Adobe Firefly demo <br>
-g. App using Semantic Kernel <br>
-h. Medium article on best practices for prompt engineering - <br>
+g. App using Semantic Kernel (colab + demo) <br>
+&nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/1-GhO6AkdWnUugojy2B6ogdwlbvSbDIw8?usp=sharing <br>
+h. Medium article on best practices for prompt engineering <br>
 &nbsp; &nbsp; &nbsp; https://medium.com/@sanjana.kothari/best-practices-for-prompt-engineering-d6832740830
