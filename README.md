@@ -45,3 +45,7 @@ g. App using Semantic Kernel (colab + demo) <br>
 &nbsp; &nbsp; &nbsp; https://colab.research.google.com/drive/1-GhO6AkdWnUugojy2B6ogdwlbvSbDIw8?usp=sharing <br>
 h. Medium article on best practices for prompt engineering <br>
 &nbsp; &nbsp; &nbsp; https://medium.com/@sanjana.kothari/best-practices-for-prompt-engineering-d6832740830
+
+### Assignment 6 - 
+Custom components in neural networks in tensorflow <br>
+&nbsp; &nbsp; &nbsp; https://odsc.medium.com/properly-setting-the-random-seed-in-ml-experiments-not-as-simple-as-you-might-imagine-219969c84752
