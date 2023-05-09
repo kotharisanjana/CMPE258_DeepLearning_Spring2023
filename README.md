@@ -50,6 +50,11 @@ h. Medium article on best practices for prompt engineering <br>
 Custom components in neural networks in tensorflow <br>
 &nbsp; &nbsp; &nbsp; https://odsc.medium.com/properly-setting-the-random-seed-in-ml-experiments-not-as-simple-as-you-might-imagine-219969c84752
 
+### Assignment 7 - 
+1. Convolution and depth wise pooling layers - https://colab.research.google.com/drive/1bvpBYcdGPOFzZHqZ0Ae3G5QLZWPxC-fS?usp=sharing <br>
+2. 
+3. Pneumonia and CT scan classification - https://colab.research.google.com/drive/1zdeV-TxQZuro9cGfXvY2sFu-JzpvNM6Z?usp=sharing <br>
+
 ### Short Story Assignment
 Link to medium article - https://medium.com/@sanjana.kothari/survey-of-reasoning-techniques-with-language-model-prompting-fdea9617d925 <br>
 Link to presentation - https://www.slideshare.net/SanjanaKothari6/survey-of-reasoning-techniques-with-language-model-prompting <br>
