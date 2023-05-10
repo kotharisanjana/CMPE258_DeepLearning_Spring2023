@@ -52,7 +52,10 @@ Custom components in neural networks in tensorflow <br>
 
 ### Assignment 7 - 
 1. Convolution and depth wise pooling layers - https://colab.research.google.com/drive/1bvpBYcdGPOFzZHqZ0Ae3G5QLZWPxC-fS?usp=sharing <br>
-2. 
+2. Various architectures and transfer learning <br>
+   a. CIFAR10 - https://colab.research.google.com/drive/17soRCkpvkB7tnZagw9IZlSXFYcKGJRBT?usp=sharing <br>
+   b. FashionMNIST - https://colab.research.google.com/drive/1ejuV1P08OZ3HdZJzeEM5P0LT-qREmCOY?usp=sharing <br>
+   c. MNIST - https://colab.research.google.com/drive/1Q-xOcasTE2TrPuteY0QQaimifdOEHuFy?usp=sharing <br>
 3. Pneumonia and CT scan classification - https://colab.research.google.com/drive/1zdeV-TxQZuro9cGfXvY2sFu-JzpvNM6Z?usp=sharing <br>
 
 ### Short Story Assignment
