@@ -61,4 +61,4 @@ Custom components in neural networks in tensorflow <br>
 ### Short Story Assignment
 Link to medium article - https://medium.com/@sanjana.kothari/survey-of-reasoning-techniques-with-language-model-prompting-fdea9617d925 <br>
 Link to presentation - https://www.slideshare.net/SanjanaKothari6/survey-of-reasoning-techniques-with-language-model-prompting <br>
-Link to demo video - 
+Link to demo video - https://drive.google.com/file/d/1Go7xdnPz7P22vCjbt8ZKcn3KBCo878PS/view?usp=sharing
